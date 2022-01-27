@@ -1,5 +1,6 @@
 # Optimism Brings Accurate Perception in Iterated Prisoner's Dilemma
-The code for simulation of the model from the paper named "Optimism brings accurate perception in Iterated Prisoner's Dilemma".
+The code for simulation of the model from the paper named "Optimism brings accurate perception in Iterated Prisoner's Dilemma".  
+Link for the preprint version is [here](https://arxiv.org/abs/2112.01693).
 
 
 ## How to run?
